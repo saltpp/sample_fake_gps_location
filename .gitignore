@@ -1,0 +1,13 @@
+*.bak
+
+*.dex
+*.class
+
+bin/
+gen/
+
+local.properties
+.classpath
+.project
+.settings/
+
