@@ -4,6 +4,8 @@
 - This is just for testing purpose. Please don't abuse.
 - Base codes is [android-4.3.1_r1 branch](https://android.googlesource.com/platform/manifest/+/refs/heads/android-4.3.1_r1) of AOSP repository
 - I have cheked only with Samsung Galaxy Nexus
+- Brief description is [here](https://saltpp.netlify.com/posts/software/android/fakegpslocation/) (Only Japanease text)
+- Demo is [here](https://youtu.be/-e4wzC299hI) (YouTube)
 
 
 ## Files
@@ -147,13 +149,4 @@ $ adb reboot recovery
     $ adb reboot recovery
     // Flash by TWRP
     ```
-
-
-## Links
-
-- YouTube
-    - https://youtu.be/-e4wzC299hI
-
-- Blog
-    - https://saltpp.netlify.com/posts/software/android/fakegpslocation/ (Only Japanease text)
 
