@@ -38,8 +38,8 @@ I haven't confirmed with other devices.
 $ repo init -u https://android.googlesource.com/platform/manifest -b android-4.3.1_r1
 $ repo sync -j8
 
-// Apply paches (Copy files that are applied patch)
-$ cp -rf paches/android/* .
+// Apply patches (Copy files that are applied patch)
+$ cp -rf patches/android/* .
 
 // Get Samsung proprietary binaries
 $ wget https://dl.google.com/dl/android/aosp/broadcom-maguro-jwr66v-67de03a5.tgz
